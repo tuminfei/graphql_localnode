@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "ERC20_Coin": {
+      "address": "0x52C29876c76034AB6ab300367Ff1098BA7203847",
+      "startBlock": 0
+    }
+  }
+}
